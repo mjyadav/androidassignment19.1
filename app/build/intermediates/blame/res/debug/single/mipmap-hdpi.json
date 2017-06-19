@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\Androidassignment19.1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "E:\\android\\Androidassignment19.1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android\\Androidassignment19.1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\android\\Androidassignment19.1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dhananjay yadav\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\android\Androidassignment19.1\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_520e65614d505b6353619d4937029802c538e768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dhananjay yadav\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\android\Androidassignment19.1\app\build\intermediates\pre-dexed\debug\okio-1.6.0_7ef7dfe85bf96c5d945c1299535e61ba039c0d0e.jar" />
+    </item>
+
+</items>
